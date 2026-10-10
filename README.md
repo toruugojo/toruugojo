@@ -5,6 +5,3 @@
   <p align="center">
 	<ins> Art by me!! The one and only toru!!! inspired by @AngryMiloras. </ins>
   </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=toruugojo"alt="Profile Views" />
-</p>
